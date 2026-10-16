@@ -1,0 +1,10 @@
+.env
+backend/flood-api
+front-end/node_modules/
+front-end/dist/
+front-end/tsconfig.tsbuildinfo
+forecast/.venv/
+__pycache__/
+.pytest_cache/
+work/
+
